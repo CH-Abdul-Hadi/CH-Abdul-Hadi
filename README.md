@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi there, I'm Abdul Hadi!<br>I'm a 6th-semester Computer Science student at the University of Agriculture Peshawar and a passionate Front-end Developer. I love building sleek and responsive user interfaces using modern technologies like React, JavaScript, HTML/CSS, Bootstrap, and Tailwind. Currently diving deep into the MERN Stack at SMIT Peshawar to level up my full-stack skills.<br><br>🚀 I enjoy turning ideas into interactive web applications and mentoring others in web development, chess, and checkers. I'm also exploring Firebase to expand my backend knowledge.<br><br>🛠️ Tech Stack:<br>Languages: JavaScript, HTML, CSS, PHP<br><br>Frameworks/Libraries: React, Bootstrap, Tailwind CSS<br><br>Tools: Git, GitHub, VS Code, WordPress<br><br>Database: MySQL, MongoDB (learning)
+### 💫 About Me:
+👋 Hi there, I'm Abdul Hadi!<br>I'm a 6th-semester Computer Science student at the University of Agriculture Peshawar and a passionate Front-end Developer. I love building sleek and responsive user interfaces using modern technologies like React, JavaScript, HTML/CSS, Bootstrap, and Tailwind. Currently diving deep into the MERN Stack at SMIT Peshawar to level up my full-stack skills.<br><br>🚀 I enjoy turning ideas into interactive web applications and mentoring others in web development, chess, and checkers. I'm also exploring Firebase to expand my backend knowledge.<br><br>##🛠️ Tech Stack:<br>Languages: JavaScript, HTML, CSS, PHP<br><br>Frameworks/Libraries: React, Bootstrap, Tailwind CSS<br><br>Tools: Git, GitHub, VS Code, WordPress<br><br>Database: MySQL, MongoDB (learning)
 
 
 ## 🌐 Socials:
@@ -14,6 +14,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CH-Abdul-Hadi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CH-Abdul-Hadi&limit=5&theme=dark&combine_all_yearly_contributions=true)
