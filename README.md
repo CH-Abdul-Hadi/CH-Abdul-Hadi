@@ -1,5 +1,5 @@
 ### 💫 About Me:
-👋 Hi there, I'm Abdul Hadi!<br>I'm a 6th-semester Computer Science student at the University of Agriculture Peshawar and a passionate Front-end Developer. I love building sleek and responsive user interfaces using modern technologies like React, JavaScript, HTML/CSS, Bootstrap, and Tailwind. Currently diving deep into the MERN Stack at SMIT Peshawar to level up my full-stack skills.<br><br>🚀 I enjoy turning ideas into interactive web applications and mentoring others in web development, chess, and checkers. I'm also exploring Firebase to expand my backend knowledge.<br><br> 
+👋  Hi, I’m Abdul Hadi, a Computer Science undergraduate and Front-End / MERN Stack Developer with a strong focus on building modern, responsive, and scalable web applications. I work with HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, and WordPress, and I’m actively expanding my skills in MERN backend development. I enjoy creating reusable components, clean project structures, and real-world solutions—from portfolio sites and business websites to full-stack applications. Currently, I’m gaining hands-on experience through internships and professional work while continuously learning and improving my development workflow.
 
 
 
